@@ -5,7 +5,6 @@ const sendEmail = (config) => {
   const transporter = nodemailer.createTransport({
     service: "gmail",
     logger: true,
-    debug: true,
     auth: config.login,
   });
 

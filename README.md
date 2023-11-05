@@ -21,12 +21,14 @@ Usage
 1. Open the configuration file located in the "config" folder and fill in the necessary information.
 
 2. In the same "config" folder, place the text you wish to send in the email in the "text.txt" file.
+   
+4. Insert the recipients into the recipients_list.txt file.
 
-3. To enable authentication, create an application-specific password on Google and include it in the configuration file. You can find the steps to create the application-specific password [here](https://support.google.com/accounts/answer/185833?hl=pt-BR).
+5. To enable authentication, create an application-specific password on Google and include it in the configuration file. You can find the steps to create the application-specific password [here](https://support.google.com/accounts/answer/185833?hl=pt-BR).
 
-4. If you have email attachments, place the attachment files in the "attachments" folder within the project.
+6. If you have email attachments, place the attachment files in the "attachments" folder within the project.
 
-5. In the terminal, run the command node ./app.js from your project's directory. Make sure you are in the root directory of the project when running the command. Finally, execute the command npm install in the terminal.
+7. In the terminal, run the command node ./app.js from your project's directory. Make sure you are in the root directory of the project when running the command. Finally, execute the command npm install in the terminal.
 
 Important
 ----

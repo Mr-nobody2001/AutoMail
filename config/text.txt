@@ -1,15 +1,15 @@
-Prezado(a) F
+Dear F,
 
-Gostaria de expressar o meu profundo interesse em ingressar na equipe como estagiário na área de desenvolvimento de software. Como um entusiasta de tecnologia, estou ansioso para colaborar em projetos reais e aplicar o conhecimento que adquiri ao longo dos anos.
+I would like to express my sincere interest in joining the team as an intern in the software development area. As a technology enthusiast, I am eager to collaborate on real projects and apply the knowledge I have acquired over the years.
 
-Atualmente, sou um programador full-stack com ênfase no desenvolvimento back-end, utilizando linguagens como Java e Node.js, além de possuir experiência no desenvolvimento front-end com JavaScript. Minhas habilidades se estendem para além do desenvolvimento de aplicativos, uma vez que também tenho conhecimento em redes e segurança da informação, o que pode ser benéfico em diversos aspectos de projetos de tecnologia.
+Currently, I am a full-stack programmer with a focus on backend development, using languages like Java and Node.js. I also have experience in frontend development with JavaScript. My skills extend beyond application development, as I also have knowledge in networking and information security, which can be beneficial in various aspects of technology projects.
 
-Além disso, tenho experiência em trabalhar com APIs de Inteligência Artificial (IA) e gostaria de chamar a sua atenção para o meu projeto mais recente no GitHub, onde criei um programa de ensino de idiomas com IA. Este projeto demonstra a minha capacidade de aplicar tecnologia de ponta para resolver problemas do mundo real e a minha paixão por explorar novas possibilidades por meio da IA.
+Furthermore, I have experience working with Artificial Intelligence (AI) APIs, and I would like to draw your attention to my most recent project on GitHub, where I created a language learning program with AI. This project demonstrates my ability to apply cutting-edge technology to solve real-world problems and my passion for exploring new possibilities through AI.
 
-Seria uma honra e uma oportunidade incrível fazer parte da equipe. Estou ansioso para aprender com os profissionais talentosos da sua empresa e contribuir com o meu entusiasmo, habilidades técnicas e comprometimento para alcançar os objetivos do projeto.
+It would be an honor and an incredible opportunity to be a part of the team. I am looking forward to learning from the talented professionals at your company and contributing my enthusiasm, technical skills, and dedication to achieving project goals.
 
-Ficarei disponível para uma entrevista para discutir como a minha experiência e habilidades podem ser benéficas para a sua equipe e os projetos em andamento.
+I am available for an interview to discuss how my experience and skills can be beneficial to your team and ongoing projects.
 
-Atenciosamente,
+Sincerely,
 
-Mr.Nobody.
+Mr. Nobody.

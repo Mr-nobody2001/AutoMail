@@ -10,7 +10,7 @@ Screenshots
 Installation
 ----
 
-Preferably, you can download sqlmap by cloning the [Git](https://github.com/Mr-nobody2001/AutoMail) repository:
+Preferably, you can download Auto Mail by cloning the [Git](https://github.com/Mr-nobody2001/AutoMail) repository:
 
 
 > git clone git@github.com:Mr-nobody2001/AutoMail.git

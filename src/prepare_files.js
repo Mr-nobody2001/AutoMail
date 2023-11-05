@@ -27,13 +27,32 @@ const readText = (config) =>
 
     config.options.text = data;
 
-    readAttachments(config);
+    readRecipients(config);
   });
+
+// Read list of recipients
+const readRecipients = (config) =>
+  fs.readFile(
+    __dirname + "/config/recipient_list.txt",
+    "utf-8",
+    (err, data) => {
+      if (err) {
+        console.error(err);
+        return;
+      }
+
+      config.options.to = data;
+
+      readAttachments(config);
+    }
+  );
 
 // Includes the attachments.
 const readAttachments = (config) => {
   for (let att of config.options.attachments) {
-    att.content = fs.createReadStream(__dirname + "/attachments/Meu currículo.pdf");
+    att.content = fs.createReadStream(
+      `${__dirname}/attachments/${att.filename}`
+    );
 
     sendEmail(config);
   }

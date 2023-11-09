@@ -28,7 +28,7 @@ Usage
 
 6. If you have email attachments, place the attachment files in the "attachments" folder within the project.
 
-7. In the terminal, run the command node ./app.js from your project's directory. Make sure you are in the root directory of the project when running the command. Finally, execute the command npm install in the terminal.
+7. In the terminal, run the command "node ./app.js" from your project's directory. Make sure you are in the root directory of the project when running the command. Finally, execute the command npm install in the terminal.
 
 Important
 ----

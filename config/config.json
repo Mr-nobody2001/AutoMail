@@ -1,17 +1,18 @@
 {
   "login": {
-    "user": "enter the sender's email",
-    "pass": "enter the Google application password that was created"
+    "user": "gabrielbarbosadev2022@gmail.com",
+    "pass": "niap yodb fjzj trwd"
   },
 
   "options": {
-    "from": "enter the sender's email",
-    "subject": "enter the email subject",
+    "from": "gabrielbarbosadev2022@gmail.com",
+    "subject": "Oportunidade de Estágio",
     "attachments": [
       {
-        "filename": "enter the attachment name (more attachments can be added if necessary)",
-        "contentType": "enter the attachment type (e.g., filetype/pdf, filetype/txt)"
+        "filename": "Meu currículo.pdf",
+        "contentType": "application/pdf"
       }
     ]
   }
 }
+

@@ -10,7 +10,7 @@ const __dirname = dirname(dirname(__filename));
 const readConfig = () =>
   fs.readFile(__dirname + "/config/config.json", "utf-8", (err, data) => {
     if (err) {
-      console.error(err);
+      console.error(`\nError sending email: no such file, config.json\n`);
       return;
     }
 
@@ -21,7 +21,7 @@ const readConfig = () =>
 const readText = (config) =>
   fs.readFile(__dirname + "/config/text.txt", "utf-8", (err, data) => {
     if (err) {
-      console.error(err);
+      console.error(`\nError sending email: no such file, text.txt\n`);
       return;
     }
 
@@ -37,7 +37,7 @@ const readRecipients = (config) =>
     "utf-8",
     (err, data) => {
       if (err) {
-        console.error(err);
+        console.error(`\nError sending email: no such file, recipient_list.txt\n`);
         return;
       }
 

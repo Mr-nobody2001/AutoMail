@@ -1,4 +1,5 @@
 import figlet from "figlet";
+import prepareFile from "./prepare_files.js";
 
 // Print banner
 const showBanner = () => {
@@ -23,6 +24,8 @@ const showBanner = () => {
         `1.0.0                                              Gabriel Barbosa (Mr.Nobody)
         \n`
       );
+
+      prepareFile();
     }
   );
 };
